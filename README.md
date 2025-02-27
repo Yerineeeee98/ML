@@ -1,0 +1,8 @@
+- 가상환경 생성
+ - python -m venv -vevn
+- 가상환경 활성화
+    -source venv/Scripts/activate
+- 라이브러리 설치
+    - pip install pandas jupyterlab
+- .gitignore 작성
+    - .gitignpre 파일 만들고 사이트에서 코드 복사 붙여넣기
